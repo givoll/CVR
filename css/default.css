@@ -349,7 +349,7 @@ li p { }
    color: #313131;
 }
 .stats-tabs li a:hover {
-   color:#11ABB0;
+   color:#C58CFF;
 }
 .stats-tabs li a b {
 	display: block;
@@ -436,7 +436,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #11ABB0;
+   background-color: #C58CFF;
    color: #fff;
 }
 .pagination .inactive,
