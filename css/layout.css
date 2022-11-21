@@ -219,11 +219,11 @@ ul#nav li.current a { color: #C58CFF; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #C6FF8C;
 }
 #about .download .button:hover {
-   background: #fff;
-   color: #2B2B2B;
+   background: #C58CFF;
+   color: #fff;
 }
 #about .download .button i {
    margin-right: 15px;
