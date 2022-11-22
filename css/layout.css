@@ -606,7 +606,7 @@ ul#nav li.current a { color: #C58CFF; }
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
-   color: #EBEEEE;
+   color: #C58CFF;
 	display: inline-block;
 	float: left;
    width: 26%;
@@ -615,8 +615,8 @@ ul#nav li.current a { color: #C58CFF; }
 #contact textarea,
 #contact select {
    padding: 18px 20px;
-	color: #eee;
-	background: #C6FF8C;
+	color: #000;
+	background: #777;
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
@@ -628,13 +628,14 @@ ul#nav li.current a { color: #C58CFF; }
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #C58CFF;
+	background-color: ##C6FF8C;
 }
 #contact button.submit {
 	text-transform: uppercase;
 	letter-spacing: 3px;
    background: #C6FF8C;
 	border: none;
+    color: #000;
    cursor: pointer;
    height: auto;
    display: inline-block;
@@ -643,7 +644,7 @@ ul#nav li.current a { color: #C58CFF; }
 }
 #contact button.submit:hover {
 	color: #C58CFF;
-	background: #fff;
+	background: #000;
 }
 #contact span.required {
 	color: #11ABB0;
