@@ -267,10 +267,9 @@ ul#nav li.current a { color: #C58CFF; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: #C58CFF;
    margin-bottom: 18px;
    margin-top: 9px;
-   color: #C58CFF;
 }
 #resume .info span {
    margin-right: 5px;
