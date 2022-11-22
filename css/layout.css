@@ -616,7 +616,7 @@ ul#nav li.current a { color: #C58CFF; }
 #contact select {
    padding: 18px 20px;
 	color: #eee;
-	background: #373233;
+	background: #C6FF8C;
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
@@ -628,13 +628,12 @@ ul#nav li.current a { color: #C58CFF; }
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #C58CFF;
 }
 #contact button.submit {
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color:#fff;
-   background: #0D0D0D;
+   background: #C6FF8C;
 	border: none;
    cursor: pointer;
    height: auto;
@@ -643,7 +642,7 @@ ul#nav li.current a { color: #C58CFF; }
    margin-left: 26%;
 }
 #contact button.submit:hover {
-	color: #0D0D0D;
+	color: #C58CFF;
 	background: #fff;
 }
 #contact span.required {
