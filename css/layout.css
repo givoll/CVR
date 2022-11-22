@@ -109,7 +109,7 @@ header .scrolldown a {
    width: 42px;
    font-size: 42px;
    line-height: 42px;
-   color: #fff;
+   color: #c6ff8c;
    border-radius: 100%;
 
    -webkit-transition: all .3s ease-in-out;
@@ -169,7 +169,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #c6ff8c;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -193,7 +193,7 @@ ul#nav li.current a { color: #C58CFF; }
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
+#about a, #about a:visited  { color: #c6ff8c; }
 #about a:hover, #about a:focus { color: #C58CFF; }
 
 #about h2 {
