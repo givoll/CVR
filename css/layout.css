@@ -628,7 +628,7 @@ ul#nav li.current a { color: #C58CFF; }
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: ##C6FF8C;
+	background-color: #C6FF8C;
 }
 #contact button.submit {
 	text-transform: uppercase;
