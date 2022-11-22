@@ -643,8 +643,8 @@ ul#nav li.current a { color: #C58CFF; }
    margin-left: 26%;
 }
 #contact button.submit:hover {
-	color: #C58CFF;
-	background: #000;
+	color: #000;
+	background: #C58CFF;
 }
 #contact span.required {
 	color: #11ABB0;
