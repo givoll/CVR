@@ -823,7 +823,7 @@ properly.
 }
 
 .verticalLine2 {
-   border-left: 4px solid rgb(255, 176, 86);
+   border-right: 4px solid rgb(255, 176, 86);
    height: auto;
 }
 
