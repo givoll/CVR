@@ -826,6 +826,7 @@ properly.
    text-align: center;
    font-size: 45px;
    margin-bottom: 24px;
+   text-decoration: solid underline #4b42f5 4px;
 }
 
 
