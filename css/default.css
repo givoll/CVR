@@ -822,6 +822,11 @@ properly.
         height: auto;
 }
 
+.verticalLine2 {
+   border-left: 4px solid rgb(255, 176, 86);
+   height: auto;
+}
+
 .section-header{
    text-align: center;
    font-size: 45px;
@@ -829,6 +834,12 @@ properly.
    text-decoration: solid underline #4b42f5 4px;
 }
 
+.section-header2{
+   text-align: center;
+   font-size: 45px;
+   margin-bottom: 24px;
+   text-decoration: solid underline rgb(255, 176, 86) 4px;
+}
 
 
 	
