@@ -822,6 +822,9 @@ properly.
         height: auto;
 }
 
+.section-header{
+   justify-content: center;
+}
 
 
 
