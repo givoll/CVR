@@ -818,7 +818,7 @@ properly.
 	text-align: center !important;
 }
 .verticalLine {
-        border-right: 4px solid #4b42f5;
+        border-left: 4px solid #4b42f5;
         height: 200px;
 }
 
