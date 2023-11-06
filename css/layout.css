@@ -294,6 +294,7 @@ ul#nav li.current a { color: #C58CFF; }
 
 #certifications h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color: #777;
 }
 
 #certifications .date {
