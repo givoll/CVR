@@ -236,6 +236,7 @@ ul#nav li.current a { color: #C58CFF; }
 /* ------------------------------------------------------------------ */
 
 #resume {
+   color: #777
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -261,7 +262,6 @@ ul#nav li.current a { color: #C58CFF; }
 #resume .main-col { padding-right: 10%; }
 
 .education, .work {
-   background: #777;
    margin-bottom: 48px;
    padding-bottom: 24px;
 }
