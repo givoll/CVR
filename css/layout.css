@@ -229,32 +229,20 @@ ul#nav li.current a { color: #C58CFF; }
    font-size: 20px;
 }
 
-
 /* ------------------------------------------------------------------ */
 /* d. experiences Section
 /* ------------------------------------------------------------------ */
 
 #experiences {
-   background: #555;
+   background: #333;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#experiences a, #experiences a:visited  { color: #c6ff8c; }
-#experiences a:hover, #experiences a:focus { color: #C58CFF; }
-
-#experiences h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 1px;
-}
-#experiences h1 span {
-   border-bottom: 3px solid #c6ff8c;
-   padding-bottom: 6px;
-}
 #experiences h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color: #1900ff
 }
 
 #experiences .header-col { padding-top: 9px; }
@@ -264,12 +252,7 @@ ul#nav li.current a { color: #C58CFF; }
    margin-bottom: 48px;
    padding-bottom: 24px;
 }
-#experiences .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #C58CFF;
-   margin-bottom: 18px;
-   margin-top: 9px;
-}
+
 #experiences .info span {
    margin-right: 5px;
    margin-left: 5px;
@@ -293,7 +276,7 @@ ul#nav li.current a { color: #C58CFF; }
 
 #certifications h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
-   color: #555;
+   color: rgb(255, 176, 86);
 }
 
 #certifications .date {
@@ -307,7 +290,7 @@ ul#nav li.current a { color: #C58CFF; }
 /* ------------------------------------------------------------------ */
 
 #education {
-   background: #555;
+   background: #333;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -315,13 +298,29 @@ ul#nav li.current a { color: #C58CFF; }
 
 #education h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
-   color: #2B2B2B;
+   color: rgb(247, 250, 60);
 }
 
 #education .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
    color: rgb(247, 250, 60);
+}
+
+/* ------------------------------------------------------------------ */
+/* d. Personal Skill Section
+/* ------------------------------------------------------------------ */
+
+#education {
+   background: #2B2B2B;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#education h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+   color: rgb(250, 60, 60);
 }
 
 /*----------------------------------------------*/

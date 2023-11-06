@@ -832,6 +832,11 @@ properly.
    height: auto;
 }
 
+.verticalLine4 {
+   border-left: 4px solid rgb(250, 60, 60);
+   height: auto;
+}
+
 .section-header{
    text-align: center;
    font-size: 45px;
@@ -851,6 +856,13 @@ properly.
    font-size: 45px;
    margin-bottom: 24px;
    text-decoration: solid underline rgb(247, 250, 60) 4px;
+}
+
+.section-header3{
+   text-align: center;
+   font-size: 45px;
+   margin-bottom: 24px;
+   text-decoration: solid underline rgb(250, 60, 60) 4px;
 }
 
 
