@@ -311,14 +311,14 @@ ul#nav li.current a { color: #C58CFF; }
 /* d. Personal Skill Section
 /* ------------------------------------------------------------------ */
 
-#education {
+#skills {
    background: #2B2B2B;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#education h3 {
+#skills h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
    color: rgb(250, 60, 60);
 }
