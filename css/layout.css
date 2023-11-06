@@ -278,7 +278,7 @@ ul#nav li.current a { color: #C58CFF; }
 #experiences .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
-   color: #C58CFF;
+   color: #4b42f5;
 }
 
 /* ------------------------------------------------------------------ */
@@ -292,6 +292,15 @@ ul#nav li.current a { color: #C58CFF; }
    overflow: hidden;
 }
 
+#certifications h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#certifications .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+   color: rgb(255, 176, 86);
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
