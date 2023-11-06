@@ -277,7 +277,7 @@ ul#nav li.current a { color: #C58CFF; }
 #experiences .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
-   color: #4b42f5;
+   color: #5c4aff;
 }
 
 /* ------------------------------------------------------------------ */
@@ -307,7 +307,7 @@ ul#nav li.current a { color: #C58CFF; }
 /* ------------------------------------------------------------------ */
 
 #education {
-   background: #2B2B2B;
+   background: #555;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -315,7 +315,7 @@ ul#nav li.current a { color: #C58CFF; }
 
 #education h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
-   color: #555;
+   color: #2B2B2B;
 }
 
 #education .date {

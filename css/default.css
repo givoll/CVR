@@ -818,7 +818,7 @@ properly.
 	text-align: center !important;
 }
 .verticalLine {
-        border-left: 4px solid #4b42f5;
+        border-left: 4px solid #5c4aff;
         height: auto;
 }
 
@@ -836,7 +836,7 @@ properly.
    text-align: center;
    font-size: 45px;
    margin-bottom: 24px;
-   text-decoration: solid underline #4b42f5 4px;
+   text-decoration: solid underline #5c4aff 4px;
 }
 
 .section-header2{
