@@ -827,6 +827,11 @@ properly.
    height: auto;
 }
 
+.verticalLine3 {
+   border-left: 4px solid rgb(247, 250, 60);
+   height: auto;
+}
+
 .section-header{
    text-align: center;
    font-size: 45px;

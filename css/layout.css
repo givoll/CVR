@@ -235,7 +235,7 @@ ul#nav li.current a { color: #C58CFF; }
 /* ------------------------------------------------------------------ */
 
 #experiences {
-   background: #777;
+   background: #555;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -293,7 +293,7 @@ ul#nav li.current a { color: #C58CFF; }
 
 #certifications h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
-   color: #777;
+   color: #555;
 }
 
 #certifications .date {
@@ -301,6 +301,29 @@ ul#nav li.current a { color: #C58CFF; }
    margin-top: 6px;
    color: rgb(255, 176, 86);
 }
+
+/* ------------------------------------------------------------------ */
+/* d. Education Section
+/* ------------------------------------------------------------------ */
+
+#education {
+   background: #2B2B2B;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#education h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+   color: #555;
+}
+
+#education .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+   color: rgb(247, 250, 60);
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
