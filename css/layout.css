@@ -235,47 +235,47 @@ ul#nav li.current a { color: #C58CFF; }
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+#experiences {
    background: #777;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #c6ff8c; }
-#resume a:hover, #resume a:focus { color: #C58CFF; }
+#experiences a, #experiences a:visited  { color: #c6ff8c; }
+#experiences a:hover, #experiences a:focus { color: #C58CFF; }
 
-#resume h1 {
+#experiences h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#resume h1 span {
+#experiences h1 span {
    border-bottom: 3px solid #c6ff8c;
    padding-bottom: 6px;
 }
-#resume h3 {
+#experiences h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#experiences .header-col { padding-top: 9px; }
+#experiences .main-col { padding-right: 10%; }
 
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
 }
-#resume .info {
+#experiences .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #C58CFF;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+#experiences .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#resume .date {
+#experiences .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
    color: #C58CFF;
