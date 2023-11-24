@@ -845,6 +845,7 @@ properly.
 
 .section-header2{
    font-size: 25px;
+   text-align: right;
    font-family: 'opensans-bold', sans-serif;
    color: #2B2B2B;
    background-color: rgb(255, 176, 86);
@@ -859,6 +860,7 @@ properly.
 
 .section-header4{
    font-size: 25px;
+   text-align: right;
    font-family: 'opensans-bold', sans-serif;
    background-color: rgb(250, 60, 60);
 }
