@@ -838,8 +838,8 @@ properly.
 }
 
 .section-header{
-   text-align: center;
-   font-size: 22px;
+   font-size: 25px;
+   font-family: 'opensans-bold', sans-serif;
    background-color: #7e70ff;
 }
 
