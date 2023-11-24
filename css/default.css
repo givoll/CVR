@@ -841,7 +841,7 @@ properly.
    text-align: center;
    font-size: 45px;
    margin-bottom: 24px;
-   text-decoration: solid underline #7e70ff 4px;
+   background-color: #7e70ff;
 }
 
 .section-header2{
