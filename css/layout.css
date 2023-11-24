@@ -176,7 +176,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #C58CFF; }
+/*ul#nav li.current a { color: #C58CFF; } */
 
 
 /* ------------------------------------------------------------------ */
