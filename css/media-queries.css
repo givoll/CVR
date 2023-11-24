@@ -193,7 +193,7 @@
    }
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
-      font: 16px/1.9em 'librebaskerville-regular', serif;
+      font: 25px/30px 'opensans-regular', sans-serif;
       width: 85%;
    }
    header .banner-text hr {
