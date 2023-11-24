@@ -92,7 +92,6 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #C58CFF; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -114,7 +113,6 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #C58CFF; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -176,7 +174,6 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-/*ul#nav li.current a { color: #C58CFF; } */
 
 
 /* ------------------------------------------------------------------ */
@@ -191,7 +188,6 @@ ul#nav li a:active { background-color: transparent !important; }
 }
 
 #about a, #about a:visited  { color: #86ED78; }
-#about a:hover, #about a:focus { color: #C58CFF; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -219,10 +215,6 @@ ul#nav li a:active { background-color: transparent !important; }
    background: #86ED78;
    color: #000;
    text-align: center;
-}
-#about .download .button:hover {
-   background: #C58CFF;
-   color: #000;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -474,7 +466,6 @@ footer {
 }
 
 footer a, footer a:visited { color: #86ED78; }
-footer a:hover, footer a:focus { color: #C58CFF; }
 
 /* copyright */
 footer .copyright {
@@ -542,5 +533,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #C58CFF; }
 
