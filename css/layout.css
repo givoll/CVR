@@ -46,7 +46,7 @@ header:before {
    height: 100%;
 }
 header .banner {
-   display: inline-block;
+   display: -webkit-inline-box;
    margin: 0 auto;
    width: 85%;
    padding-bottom: 30px;
