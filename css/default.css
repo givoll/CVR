@@ -848,7 +848,6 @@ properly.
    justify-content: flex-start;
    flex-wrap:wrap;
    margin: auto;
-   overflow: auto;
    -ms-overflow-style: none;
    animation: 2s ease-in-out 0s 1 slideInFromLeft;
  }
@@ -859,5 +858,26 @@ properly.
    }
    100% {
      transform: translateX(0);
+   }
+ }
+
+ .sliding2{
+   z-index: 10;
+   width: 100%;
+   position: relative;
+   display: flex;
+   justify-content: flex-start;
+   flex-wrap:wrap;
+   margin: auto;
+   -ms-overflow-style: none;
+   animation: 2s ease-in-out 0s 1 slideInFromRight;
+ }
+
+ @keyframes slideInFromRight {
+   0% {
+     transform: translateX(0);
+   }
+   100% {
+     transform: translateX(-100%);
    }
  }
