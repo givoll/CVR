@@ -302,7 +302,8 @@ ul#nav li a:active { background-color: transparent !important; }
 }
 
 /*Read more Button*/
-#more {display: none;}
+#more_1 {display: none;}
+#more_2 {display: none;}
 
 
 
