@@ -122,6 +122,10 @@ header h2 {
 header p {
    line-height: 30px;
    color: #fff;
+}
+header p2 {
+   line-height: 30px;
+   color: #fff;
    text-align: left;
 }
 header .profile-pic {
