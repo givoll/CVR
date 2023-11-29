@@ -448,7 +448,7 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-   font: 10px 'opensans-bold', sans-serif;
+   font: 12px 'opensans-bold', sans-serif;
    background: transparent;
    display: inline-block;
 	text-decoration: none;

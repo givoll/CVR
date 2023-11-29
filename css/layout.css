@@ -139,11 +139,12 @@ header .download .button {
    background: #86ED78;
    color: #000;
    text-align: center;
+   width: 300px;
+   font: 12px / 20px 'opensans-bold', sans-serif;
 }
 header .download .button i {
    margin-right: 15px;
    font-size: 20px;
-   width: 300px;
 }
 
 header .banner-text { width: 100%; }
