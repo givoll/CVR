@@ -124,7 +124,7 @@
 ------------------------------------------------------*/
 
 function showMoreText(x) {
-	var dots = document.getElementById("dots");
+	var dots = document.getElementById("dots_" + x);
   	var moreText = document.getElementById("more_" + x);
   	var btnText = document.getElementById("readMoreBtn_"+ x);
 
