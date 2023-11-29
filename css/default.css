@@ -77,11 +77,6 @@ ins {
    text-decoration: none;
 }
 
-mark {
-   background-color: #A7F4F6;
-   color: #555;
-}
-
 del { text-decoration: line-through; }
 
 abbr[title], dfn[title] {

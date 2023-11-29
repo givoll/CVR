@@ -26,9 +26,7 @@ body { background: #0f0f0f; }
 /* ------------------------------------------------------------------ */
 
 header {
-   /*position: relative;*/
    height: auto;
-   /*min-height: 50px;*/
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
    /*background-size: cover !important;*/
