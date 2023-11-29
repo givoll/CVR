@@ -140,7 +140,7 @@ header .download .button {
    color: #000;
    text-align: center;
    width: 300px;
-   height: 15px;
+   height: 50px;
    font: 12px / 20px 'opensans-bold', sans-serif;
 }
 header .download .button i {
