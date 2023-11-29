@@ -131,6 +131,7 @@ header .contact-details { width: 41.66667%; }
 header .download {
    width: 58.33333%;
    padding-top: 6px;
+   padding: 12px 20px;
 }
 header .main-col { padding-right: 5%; }
 header .download .button {
@@ -142,6 +143,7 @@ header .download .button {
 header .download .button i {
    margin-right: 15px;
    font-size: 20px;
+   width: 300px;
 }
 
 header .banner-text { width: 100%; }

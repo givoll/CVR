@@ -448,15 +448,15 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-   font: 16px/30px 'opensans-bold', sans-serif;
+   font: 10px 'opensans-bold', sans-serif;
    background: transparent;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
    color: #fff;
-	padding: 12px 20px;
+	padding: 6px 10px;
 	margin-bottom: 18px;
-   border: 2px solid #fff ;
+   border: 2px solid #fff;
    cursor: pointer;
    height: auto;
    width: 100px;
