@@ -449,17 +449,17 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: transparent;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
    color: #fff;
 	padding: 12px 20px;
 	margin-bottom: 18px;
-   border: none;
+   border: 2px solid #fff ;
    cursor: pointer;
    height: auto;
-   width: 300px;
+   width: 100px;
 
    -webkit-transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
@@ -876,5 +876,3 @@ properly.
       transform: translateY(0);
     }
  }
-
- #more {display: none;}

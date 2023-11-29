@@ -298,6 +298,11 @@ ul#nav li a:active { background-color: transparent !important; }
    color: rgb(255, 176, 86);
 }
 
+/*Read more Button*/
+#more {display: none;}
+
+
+
 /* ------------------------------------------------------------------ */
 /* d. Education Section
 /* ------------------------------------------------------------------ */
