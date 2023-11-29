@@ -123,9 +123,9 @@
 /*	Read More Function
 ------------------------------------------------------*/
 
-function showMoreText() {
+function showMoreText(x) {
 	var dots = document.getElementById("dots");
-  	var moreText = document.getElementById("more");
+  	var moreText = document.getElementById("more_" + x);
   	var btnText = document.getElementById("readMoreBtn");
 
   	if (dots.style.display === "none") {
