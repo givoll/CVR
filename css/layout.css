@@ -49,7 +49,7 @@ header .banner {
    display: -webkit-inline-box;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 50px;
+   padding-top: 50px;
    padding-bottom: 50px;
    text-align: center;
 }
