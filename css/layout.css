@@ -125,7 +125,6 @@ header p {
 }
 header .profile-pic {
    position: relative;
-   text-align: center;
    border: 3px solid #86ED78;
 }
 header .contact-details { width: 41.66667%; }
