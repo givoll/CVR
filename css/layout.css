@@ -27,9 +27,9 @@ body { background: #0f0f0f; }
 /* ------------------------------------------------------------------ */
 
 header {
-   position: relative;
-   height: 100px;
-   min-height: 50px;
+   /*position: relative;*/
+   height: auto;
+   /*min-height: 50px;*/
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
@@ -49,7 +49,8 @@ header .banner {
    display: -webkit-inline-box;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;
+   padding-bottom: 50px;
+   padding-bottom: 50px;
    text-align: center;
 }
 
@@ -114,7 +115,7 @@ header .scrolldown a {
    transition: all .3s ease-in-out;
 }
 
-header a, #about a:visited  { color: #86ED78; }
+header a, header a:visited  { color: #86ED78; }
 
 header h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
