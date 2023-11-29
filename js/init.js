@@ -126,7 +126,7 @@
 function showMoreText(x) {
 	var dots = document.getElementById("dots");
   	var moreText = document.getElementById("more_" + x);
-  	var btnText = document.getElementById("readMoreBtn");
+  	var btnText = document.getElementById("readMoreBtn_"+ x);
 
   	if (dots.style.display === "none") {
    		dots.style.display = "inline";
