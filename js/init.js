@@ -134,7 +134,7 @@ else {
 	visCount = 1;
   	localStorage.setItem("page_view", 1);
 }
-counterContainer.innerHTML = visCount;
+visContainer.innerHTML = visCount;
 
 
 /*----------------------------------------------------*/
