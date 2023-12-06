@@ -117,6 +117,10 @@
     		$.magnificPopup.close();
     });
 
+	document.querySelector('#vis_count').addEventListener('load', function(){
+		addVisitor();
+	});
+
 });
 
 /*----------------------------------------------------*/
@@ -139,6 +143,12 @@ function showMoreText(x) {
     	moreText.style.display = "inline";
   	}
 }
+
+function addVisitor(){
+	alert("OK");
+}
+
+
 
 
 
