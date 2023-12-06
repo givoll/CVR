@@ -119,7 +119,23 @@
 
 });
 
-alert("OH");
+/*----------------------------------------------------*/
+/*	Visitor Counter
+------------------------------------------------------*/
+
+var visContainer = document.querySelector(".vis_count");
+var visCount = localStorage.getItem("storedVisCount");
+
+if (visCount) {
+	visCount = Number(visCount) + 1;
+	localStorage.setItem("storedVisCount", visCount);
+	} 
+else {
+	visCount = 1;
+  	localStorage.setItem("page_view", 1);
+}
+counterContainer.innerHTML = visCount;
+
 
 /*----------------------------------------------------*/
 /*	Read More Function
