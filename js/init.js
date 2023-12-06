@@ -117,13 +117,9 @@
     		$.magnificPopup.close();
     });
 
-	var counter = $("vis_count");
-
-	counter.addEventListener('load', function(){
-		addVisitor();
-	});
-
 });
+
+alert("OH");
 
 /*----------------------------------------------------*/
 /*	Read More Function
