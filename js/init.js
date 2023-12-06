@@ -145,7 +145,7 @@ function showMoreText(x) {
 }
 
 function addVisitor(){
-	alert("OK");
+	return "OK";
 }
 
 
