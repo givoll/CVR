@@ -123,14 +123,6 @@
 /*	Visitor Counter
 ------------------------------------------------------*/
 
-var n = localStorage.getItem("storedVisCount");
-if (n === null) {
-	n = 1
-}
-n++;
-localStorage.setItem("storedVisCount", n);
-document.querySelector(".vis_count").innerHTML = n;
-
 
 /*----------------------------------------------------*/
 /*	Read More Function
