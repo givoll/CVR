@@ -123,18 +123,13 @@
 /*	Visitor Counter
 ------------------------------------------------------*/
 
-var visContainer = document.querySelector(".vis_count");
-var visCount = localStorage.getItem("storedVisCount");
-
-if (visCount) {
-	visCount = Number(visCount) + 1;
-	localStorage.setItem("storedVisCount", visCount);
-	} 
-else {
-	visCount = 1;
-  	localStorage.setItem("page_view", 1);
+var n = localStorage.getItem("storedVisCount");
+if (n === null) {
+	n = 1
 }
-visContainer.innerHTML = visCount;
+n++;
+localStorage.setItem("storedVisCount", n);
+document.querySelector(".vis_count").innerHTML = n;
 
 
 /*----------------------------------------------------*/
