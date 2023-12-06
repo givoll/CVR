@@ -117,7 +117,9 @@
     		$.magnificPopup.close();
     });
 
-	document.querySelector('#vis_count').addEventListener('load', function(){
+	var counter = $("vis_count");
+
+	counter.addEventListener('load', function(){
 		addVisitor();
 	});
 
