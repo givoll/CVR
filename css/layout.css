@@ -532,6 +532,13 @@ footer .copyright  li:first-child:before {
 
 footer .social-links li:first-child { margin-left: 0; }
 
+footer .social-links li {
+   display: inline-block;
+   margin: 0;
+   padding: 0;
+   margin-left: 42px;
+}
+
 /* Go To Top Button */
 #go-top {
 	position: absolute;
