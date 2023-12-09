@@ -32,10 +32,6 @@
       font: 78px/1.1em 'opensans-bold', sans-serif;
       letter-spacing: -1px;      
    }
-    /*header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
-      width: 80%;
-   }*/
    header .banner-text hr {
       width: 65%;
       margin: 12px auto;
@@ -160,6 +156,8 @@
     /* scrolldown link */
    header .scrolldown { display: none; }
 
+}
+
 /* mobile narrow
   -------------------------------------------------------------------------- */
 
@@ -180,11 +178,4 @@
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
    }
-  
-   /* header social links
-   header .social { font-size: 20px;}
-   header .social li { margin: 0 6px; } */
-
-   }
-
 }
