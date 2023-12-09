@@ -157,19 +157,6 @@ header .banner-text h3 {
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
-/*header .banner-text h3 span,*/
-/*header .banner-text h3 a {
-   font: 25px/30px 'opensans-bold', sans-serif;
-   color: #fff;**/
-}
-/*header .banner-text hr {
-   width: 60%;
-   margin: 18px auto 24px auto;
-   border-color: #2F2D2E;
-   border-color: rgba(150, 150, 150, .1);
-}**/
-
-
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -242,8 +229,8 @@ ul#nav li a:active { background-color: transparent !important; }
    overflow: hidden;
 }
 
-#experiences a, #about a:visited  { color: #86ED78; }
-#experiences a:hover, #experiences a:focus { color: #7e70ff; }
+/*#experiences a, #about a:visited  { color: #86ED78; }
+#experiences a:hover, #experiences a:focus { color: #7e70ff; }*/
 
 #experiences h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
@@ -253,15 +240,15 @@ ul#nav li a:active { background-color: transparent !important; }
 #experiences .header-col { padding-top: 9px; }
 #experiences .main-col { padding-right: 10%; }
 
-.education, .work {
+/*.education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-}
+}*/
 
-#experiences .info span {
+/*#experiences .info span {
    margin-right: 5px;
    margin-left: 5px;
-}
+}*/
 #experiences .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
