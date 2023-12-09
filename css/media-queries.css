@@ -46,49 +46,15 @@
       letter-spacing: 1.5px;
    }
 
-
-   /* About Section
-   ------------------------------------------------------------------- 
-   #about .profile-pic {
-      width: 114px;
-      height: 114px;
-      margin-left: 12px;
-   }
-   #about .contact-details { width: 50%; }
-   #about .download { width: 50%; }*/
-
-   /* Resume Section
-   ------------------------------------------------------------------- 
-   #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
-   #resume .main-col { padding-right: 5%; }   
-
-   /* Testimonials Section
-   ------------------------------------------------------------------- 
-   #testimonials .header-col h1:before {
-      font-size: 66px;
-      line-height: 66px;
-   }
-   #testimonials blockquote p {
-      font-size: 22px;
-      line-height: 46px;      
-   }
-
-    /* Call to Action Section
-   ------------------------------------------------------------------- 
-   #call-to-action .header-col h1:before {
-      font-size: 66px;
-      line-height: 66px;
-   }*/
-
    /* Contact Section
-   ------------------------------------------------------------------- */
+   -------------------------------------------------------------------
    #contact .section-head { margin-bottom: 30px; }
    #contact .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
-
+   */
 
 }
 
@@ -201,7 +167,7 @@
       margin: 18px auto;
    }
 
-   /* header social links */
+   /* header social links
    header .social {
       margin: 18px 0 24px 0;
       font-size: 24px;
@@ -212,7 +178,7 @@
     /* scrolldown link */
    header .scrolldown { display: none; }
 
-   /* form */
+   /* form 
    #contact label {
       float: none;
       width: 100%;
@@ -228,20 +194,20 @@
       width: 100%;
       margin-left: 0;
    }
-
+/*
 
    /* footer
-   ------------------------------------------------------------------------ */
+   ------------------------------------------------------------------------
   
-   /* copyright */
+   /* copyright
    footer .copyright li:before { content: none; }
    footer .copyright li { margin-right: 12px; }
 
-   /* social links */
+   /* social links
    footer .social-links { font-size: 22px; }
    footer .social-links li { margin-left: 18px; }
 
-   /* Go To Top Button */
+   /* Go To Top Button
    #go-top { margin-left: -22px; }
    #go-top a {
    	width: 54px;
@@ -251,7 +217,7 @@
    }
 
 
-}
+} */
 
 /* mobile narrow
   -------------------------------------------------------------------------- */
