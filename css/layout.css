@@ -229,16 +229,13 @@ ul#nav li a:active { background-color: transparent !important; }
    overflow: hidden;
 }
 
-/*#experiences a, #about a:visited  { color: #86ED78; }
-#experiences a:hover, #experiences a:focus { color: #7e70ff; }*/
-
 #experiences h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
    color: #7e70ff
 }
 
-#experiences .header-col { padding-top: 9px; }
-#experiences .main-col { padding-right: 10%; }
+/*#experiences .header-col { padding-top: 9px; }
+#experiences .main-col { padding-right: 10%; }*/
 
 /*.education, .work {
    margin-bottom: 48px;
@@ -266,8 +263,8 @@ ul#nav li a:active { background-color: transparent !important; }
    overflow: hidden;
 }
 
-#certifications a, #about a:visited  { color: #86ED78; }
-#certifications a:hover, #certifications a:focus { color: rgb(255, 176, 86); }
+/*#certifications a, #about a:visited  { color: #86ED78; }
+#certifications a:hover, #certifications a:focus { color: rgb(255, 176, 86); }*/
 
 #certifications h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
@@ -307,8 +304,8 @@ ul#nav li a:active { background-color: transparent !important; }
    overflow: hidden;
 }
 
-#education a, #about a:visited  { color: #86ED78; }
-#education a:hover, #education a:focus { color: rgb(247, 250, 60); }
+/*#education a, #about a:visited  { color: #86ED78; }
+#education a:hover, #education a:focus { color: rgb(247, 250, 60); }*/
 
 #education h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
@@ -332,8 +329,8 @@ ul#nav li a:active { background-color: transparent !important; }
    overflow: hidden;
 }
 
-#skills a, #about a:visited  { color: #86ED78; }
-#skills a:hover, #skills a:focus { color: rgb(250, 60, 60); }
+/*#skills a, #about a:visited  { color: #86ED78; }
+#skills a:hover, #skills a:focus { color: rgb(250, 60, 60); }*/
 
 #skills h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
