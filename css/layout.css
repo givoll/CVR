@@ -4,15 +4,13 @@
 *   url: styleshout.com
 *   03-18-2014
 =====================================================================
+*/
 
-/* ------------------------------------------------------------------ */
-/* a. General Styles
-/* ------------------------------------------------------------------ */
 
 body { background: #0f0f0f; }
 
 /* ------------------------------------------------------------------ */
-/* b. Header Styles
+/* Header Styles
 /* ------------------------------------------------------------------ */
 
 header {
@@ -234,18 +232,6 @@ ul#nav li a:active { background-color: transparent !important; }
    color: #7e70ff
 }
 
-/*#experiences .header-col { padding-top: 9px; }
-#experiences .main-col { padding-right: 10%; }*/
-
-/*.education, .work {
-   margin-bottom: 48px;
-   padding-bottom: 24px;
-}*/
-
-/*#experiences .info span {
-   margin-right: 5px;
-   margin-left: 5px;
-}*/
 #experiences .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
@@ -262,9 +248,6 @@ ul#nav li a:active { background-color: transparent !important; }
    padding-bottom: 72px;
    overflow: hidden;
 }
-
-/*#certifications a, #about a:visited  { color: #86ED78; }
-#certifications a:hover, #certifications a:focus { color: rgb(255, 176, 86); }*/
 
 #certifications h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
@@ -304,9 +287,6 @@ ul#nav li a:active { background-color: transparent !important; }
    overflow: hidden;
 }
 
-/*#education a, #about a:visited  { color: #86ED78; }
-#education a:hover, #education a:focus { color: rgb(247, 250, 60); }*/
-
 #education h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
    color: rgb(247, 250, 60);
@@ -328,9 +308,6 @@ ul#nav li a:active { background-color: transparent !important; }
    padding-bottom: 72px;
    overflow: hidden;
 }
-
-/*#skills a, #about a:visited  { color: #86ED78; }
-#skills a:hover, #skills a:focus { color: rgb(250, 60, 60); }*/
 
 #skills h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
