@@ -214,7 +214,7 @@
 
 
    /* About Section
-   -------------------------------------------------------------------- */
+   -------------------------------------------------------------------- 
    #about .profile-pic { display: none; }
    #about .download .button {
       width: 100%;
@@ -225,7 +225,7 @@
 
 
    /* Resume Section
-   --------------------------------------------------------------------- */
+   --------------------------------------------------------------------- 
    #resume .header-col {
       padding-top: 0;
       margin-bottom: 48px;
@@ -239,7 +239,7 @@
 
 
    /* Call To Action Section
-   /* ----------------------------------------------------------------- */
+   /* ----------------------------------------------------------------- 
    #call-to-action { text-align: center; }
    #call-to-action h1 {
       font: 16px/24px 'opensans-bold', sans-serif;
@@ -253,29 +253,12 @@
 
 
    /* Portfolio Section
-   /* ----------------------------------------------------------------- */
+   /* ----------------------------------------------------------------- 
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
 
-   /* Testimonials Section
-   ----------------------------------------------------------------------- */
-   #testimonials .text-container { text-align: center; }
-   #testimonials h1 {
-      font: 16px/24px 'opensans-bold', sans-serif;
-      text-align: center;
-      margin-bottom: 30px;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
-   }
-   #testimonials h1 span { display: block; }
-   #testimonials .header-col h1:before { content: none; }
-   #testimonials blockquote { padding-bottom: 24px; }
-   #testimonials blockquote p {
-      font-size: 20px;
-      line-height: 42px;      
-   }
-
-   /* Control Nav */
+   /* Control Nav 
    .flex-control-nav {
       text-align: center;
       margin-left: -30px;
@@ -283,7 +266,7 @@
 
 
    /* contact Section
-   ----------------------------------------------------------------------- */
+   ----------------------------------------------------------------------- 
    #contact { padding-bottom: 66px; }
    #contact .section-head { margin-bottom: 12px; }
    #contact .section-head h1 {
@@ -366,9 +349,10 @@
    /* footer
    ------------------------------------------------------------------------ */
 
-   /* social links */
+   /* social links
    footer .social-links { font-size: 20px; }
    footer .social-links li { margin-left: 14px; }   
+   */
 
 }
 

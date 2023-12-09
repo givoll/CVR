@@ -5,16 +5,6 @@
 *   03-18-2014
 =====================================================================
 
-   TOC:
-   a. General Styles
-   b. Header Styles
-   d. Resume Section
-   g. Testimonials Section
-   h. Contact Section
-   i. Footer
-
-===================================================================== */
-
 /* ------------------------------------------------------------------ */
 /* a. General Styles
 /* ------------------------------------------------------------------ */
@@ -29,8 +19,6 @@ header {
    height: auto;
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
-   /*background-size: cover !important;*/
-	/*-webkit-background-size: cover !important;*/
    text-align: center;
    overflow: hidden;
 }
@@ -212,7 +200,6 @@ header .banner-text hr {
 ul#nav {
    min-height: 48px;
    width: auto;
-
    /* center align the menu */
    text-align: center;
 }
@@ -245,7 +232,7 @@ ul#nav li a {
 ul#nav li a:active { background-color: transparent !important; }
 
 /* ------------------------------------------------------------------ */
-/* d. experiences Section
+/* experiences Section
 /* ------------------------------------------------------------------ */
 
 #experiences {
@@ -282,7 +269,7 @@ ul#nav li a:active { background-color: transparent !important; }
 }
 
 /* ------------------------------------------------------------------ */
-/* d. certifications Section
+/* certifications Section
 /* ------------------------------------------------------------------ */
 
 #certifications {
@@ -323,7 +310,7 @@ ul#nav li a:active { background-color: transparent !important; }
 
 
 /* ------------------------------------------------------------------ */
-/* d. Education Section
+/* Education Section
 /* ------------------------------------------------------------------ */
 
 #education {
@@ -348,7 +335,7 @@ ul#nav li a:active { background-color: transparent !important; }
 }
 
 /* ------------------------------------------------------------------ */
-/* d. Personal Skill Section
+/* Personal Skill Section
 /* ------------------------------------------------------------------ */
 
 #skills {
