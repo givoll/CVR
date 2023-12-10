@@ -514,6 +514,7 @@ properly.
 
 .section-header{
    font-size: 25px;
+   margin-bottom: 30px;
    font-family: 'opensans-bold', sans-serif;
    background-color: #7e70ff;
 }
