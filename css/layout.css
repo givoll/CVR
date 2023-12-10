@@ -21,16 +21,6 @@ header {
    overflow: hidden;
 }
 
-header h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
-   margin-bottom: 12px;
-}
-header p {
-   line-height: 30px;
-   color: #fff;
-}
-
 /* vertically center banner section */
 header:before {
    content: '';
@@ -56,27 +46,11 @@ header .banner-text {
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
-   letter-spacing: -2px;
-   margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
-}
-
-/*header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: #fff;
    text-align: center;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
-}*/
-
-/*header .banner-text h3 {
-   font: 25px/30px 'opensans-regular', sans-serif;
-   margin: 0 auto;
-   width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
-}*/
-
+}
 header .banner-text h3 {
    font: 25px/30px 'opensans-regular', sans-serif;
    text-align: center;
@@ -86,12 +60,24 @@ header .banner-text h3 {
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 
+/*header .banner-text h1 {
+   font: 90px/1.1em 'opensans-bold', sans-serif;
+   color: #fff;
+   letter-spacing: -2px;
+   margin: 0 auto 18px auto;
+   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+}*/
+/*header .banner-text h3 {
+   font: 25px/30px 'opensans-regular', sans-serif;
+   margin: 0 auto;
+   width: 70%;
+   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
+}*/
 header .banner-text h3 span,
 header .banner-text h3 a {
    font: 25px/30px 'opensans-bold', sans-serif;
    color: #fff;
 }
-
 /*header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
@@ -99,7 +85,7 @@ header .banner-text h3 a {
    border-color: rgba(150, 150, 150, .1);
 }*/
 
-/* header social links 
+/* header social links
 header .social {
    margin: 24px 0;
    padding: 0;
@@ -111,7 +97,7 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }*/
+header .social li a { color: #fff; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -135,6 +121,44 @@ header .scrolldown a {
 }
 
 /*header a, header a:visited  { color: #86ED78; }*/
+
+header h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+header p {
+   line-height: 30px;
+   color: #fff;
+}
+header .p2 {
+   line-height: 30px;
+   color: #fff;
+   text-align: left;
+}
+header .profile-pic {
+   position: relative;
+   border: 3px solid #86ED78;
+}
+header .contact-details { width: 41.66667%; }
+header .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+header .main-col { padding-right: 5%; }
+header .download .button {
+   margin-top: 6px;
+   background: #86ED78;
+   color: #000;
+   text-align: center;
+   width: 300px;
+   height: 50px;
+   font: 18px 'opensans-bold', sans-serif;
+   padding: 10px;
+}
+header .download .button i {
+   margin-right: 15px;
+}
 
 /* primary navigation
 --------------------------------------------------------------------- */
